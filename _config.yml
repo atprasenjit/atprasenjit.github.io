@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Prasenjit's Log Book"
+title                    : "Prasenjit Das"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Prasenjit Das"
@@ -145,6 +145,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/prasenjitdasln/"
+    - label: "Spotify"
+      icon: "fab fa-fw fa-spotify"
+      url: "https://open.spotify.com/user/m2w3yzu6h91va1w6gnkrt5t2y?si=GUu_K9AYQd-8gV3Uppwbpw"
 
 
 # Reading Files
