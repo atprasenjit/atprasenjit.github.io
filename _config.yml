@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -128,13 +128,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      #url: "https://twitter.com/_prasenjitdas"
+      url: "https://twitter.com/_prasenjitdas"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      #url: "https://github.com/nuWolf13"
+      url: "https://github.com/nuWolf13"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -146,10 +146,10 @@ footer:
       # url:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      #url: "https://www.linkedin.com/in/prasenjitdasln/"
+      url: "https://www.linkedin.com/in/prasenjitdasln/"
     - label: "Spotify"
       icon: "fab fa-fw fa-spotify"
-      #url: "https://open.spotify.com/user/m2w3yzu6h91va1w6gnkrt5t2y?si=GUu_K9AYQd-8gV3Uppwbpw"
+      url: "https://open.spotify.com/user/m2w3yzu6h91va1w6gnkrt5t2y?si=GUu_K9AYQd-8gV3Uppwbpw"
 
 
 # Reading Files
