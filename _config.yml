@@ -106,19 +106,19 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
-      icon: "fa fa-twitter" #"fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter" #"fab fa-fw fa-twitter-square"
       url: "https://twitter.com/_prasenjitdas"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fa fa-github-square"
+      icon: "fab fa-fw fa-github-square"
       url: "https://github.com/nuWolf13"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "LinkedIn"
-      icon: "fa fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/prasenjitdasln/"
     - label: "Spotify"
       icon: "fab fa-fw fa-spotify"
@@ -128,13 +128,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/_prasenjitdas"
+      #url: "https://twitter.com/_prasenjitdas"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/nuWolf13"
+      #url: "https://github.com/nuWolf13"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -146,10 +146,10 @@ footer:
       # url:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/prasenjitdasln/"
+      #url: "https://www.linkedin.com/in/prasenjitdasln/"
     - label: "Spotify"
       icon: "fab fa-fw fa-spotify"
-      url: "https://open.spotify.com/user/m2w3yzu6h91va1w6gnkrt5t2y?si=GUu_K9AYQd-8gV3Uppwbpw"
+      #url: "https://open.spotify.com/user/m2w3yzu6h91va1w6gnkrt5t2y?si=GUu_K9AYQd-8gV3Uppwbpw"
 
 
 # Reading Files
