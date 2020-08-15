@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "Prasenjit Das"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a recent graduate in Mathematics looking for opportunities in data science and machine learning."
+  avatar           : "images/casual_photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am a recent graduate in mathematics looking for opportunities in data science and machine learning."
   location         : "Hong Kong"
   email            :
   links:
@@ -120,7 +120,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/prasenjitdasln/"
-
+    - label: "Spotify"
+      icon: "fab fa-fw fa-spotify"
+      url: "https://open.spotify.com/user/m2w3yzu6h91va1w6gnkrt5t2y?si=GUu_K9AYQd-8gV3Uppwbpw"
 # Site Footer
 footer:
   links:
